@@ -24,7 +24,6 @@ First, let's load up our packages
 library(kinfitr)
 library(tidyverse)
 library(knitr)
-library(ggcorrplot)
 library(cowplot)
 library(mgcv)
 library(ggforce)

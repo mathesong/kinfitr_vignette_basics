@@ -13,11 +13,8 @@ Description: A vignette demonstrating the basic usage of
 License: MIT
 Depends: 
     cowplot,
-    ggcorrplot,
     ggforce,
     knitr,
-    mgcv,
-    rmarkdown,
-    tidyverse
+    rmarkdown
 Encoding: UTF-8
 LazyData: true
