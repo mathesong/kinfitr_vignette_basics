@@ -15,12 +15,9 @@ Depends:
     cowplot,
     ggcorrplot,
     ggforce,
-    kinfitr,
     knitr,
     mgcv,
     rmarkdown,
     tidyverse
-Remotes: 
-    mathesong/kinfitr
 Encoding: UTF-8
 LazyData: true

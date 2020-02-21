@@ -1,4 +1,4 @@
-FROM rocker/binder:3.6.0
+FROM mathesong/kinfitr_binderdocker:3.6.0
 LABEL maintainer='mathesong'
 USER root
 COPY . ${HOME}
